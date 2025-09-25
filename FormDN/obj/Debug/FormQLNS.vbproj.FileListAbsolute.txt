@@ -1,0 +1,15 @@
+F:\phandung\FormDN\FormDN\bin\Debug\FormDN.exe.config
+F:\phandung\FormDN\FormDN\bin\Debug\FormDN.exe
+F:\phandung\FormDN\FormDN\bin\Debug\FormDN.pdb
+F:\phandung\FormDN\FormDN\bin\Debug\FormDN.xml
+F:\phandung\FormDN\FormDN\obj\Debug\FormQLNS.vbprojAssemblyReference.cache
+F:\phandung\FormDN\FormDN\obj\Debug\FormDN.tpPhongBan.resources
+F:\phandung\FormDN\FormDN\obj\Debug\FormDN.FrmMain.resources
+F:\phandung\FormDN\FormDN\obj\Debug\FormDN.tpNhanVien.resources
+F:\phandung\FormDN\FormDN\obj\Debug\FormDN.tpHopDong.resources
+F:\phandung\FormDN\FormDN\obj\Debug\FormDN.Resources.resources
+F:\phandung\FormDN\FormDN\obj\Debug\FormQLNS.vbproj.GenerateResource.cache
+F:\phandung\FormDN\FormDN\obj\Debug\FormQLNS.vbproj.CoreCompileInputs.cache
+F:\phandung\FormDN\FormDN\obj\Debug\FormDN.exe
+F:\phandung\FormDN\FormDN\obj\Debug\FormDN.xml
+F:\phandung\FormDN\FormDN\obj\Debug\FormDN.pdb
